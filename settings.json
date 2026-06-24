@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skellominecraft-bm4p.aternos.me:
-    "port": 29073
-    "version": "",
+    "ip": skellominecraft-bm4p.aternos.me",
+    "port": 29073,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
