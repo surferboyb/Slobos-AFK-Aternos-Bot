@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "surferboyb",
+    "password": "672089",
     "type": "offline"
   },
   "server": {
-    "ip": skellominecraft-bm4p.aternos.me:29073",
+    "ip": skellominecraft-bm4p.aternos.me",
     "port": 29073,e
     "version": "v26.31",
     "try-creative": false
