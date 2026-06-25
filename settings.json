@@ -7,8 +7,8 @@
   },
   "server": {
     "ip":   "skellominecraft-bm4p.aternos.me",
-    "port": 29073,
-    "version": "v26.31",
+    "port":  29073,
+    "version": "1.21.1",
     "try-creative": true
   },
   "position": {
