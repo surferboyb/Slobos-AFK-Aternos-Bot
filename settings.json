@@ -7,7 +7,7 @@
   },
   "server": {
     "ip":   "schoolsmp-K4dt.aternos.me",
-    "port":   63713,
+    "port":  50432,
     "version": "1.21.1",
     "try-creative": true
   },
