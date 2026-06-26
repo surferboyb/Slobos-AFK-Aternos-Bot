@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "surferboyb",
     "password": "672089",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip":   "skellominecraft-bm4p.aternos.me",
-    "port":  29073,
+    "ip":   "thisisthecalmserver.aternos.me",
+    "port":   63713,
     "version": "1.21.1",
     "try-creative": true
   },
@@ -43,7 +43,7 @@
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "circle-walk":true {
       "enabled": true,
       "radius": 4,
       "speed": 3000
