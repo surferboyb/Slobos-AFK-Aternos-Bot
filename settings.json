@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip":   "schoolsmp-K4dt.aternos.me",
-    "port":  50432,
+    "ip":   "donutsmp.net",
+    "port":  25565,
     "version": "1.21.1",
     "try-creative": true
   },
