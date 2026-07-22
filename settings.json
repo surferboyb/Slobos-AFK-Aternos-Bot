@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip":   "schoolsmp222.minekeep.gg",
-    "port":  19132,
+    "ip":   "henomalysmp.play.hosting",
+    "port":  61721,
     "version": "1.21.1",
     "try-creative": true
   },
